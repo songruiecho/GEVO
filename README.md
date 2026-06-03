@@ -11,4 +11,6 @@ Additionally, we have contributed a lightweight out-of-distribution (OOD) data v
 
 If you wish to use this benchmark, you may need to modify the format of the instructions based on different models and relocate the image paths contained within to your own directories.
 
-The GEVO model will be open-sourced upon the acceptance of the paper.
+The GEVO model based on Qwen3-VL-2B-Instruct can be found in [HuggingFace](https://huggingface.co/Rui1996/GEVO/). The model can be pulled locally and deployed using the same methodology as employed for the Qwen3-VL family.
+
+We provide a detailed demonstration of its usage in the corresponding Hugging Face model card.
