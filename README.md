@@ -1,5 +1,6 @@
 # GEVO
 We have open-sourced a dataset on the evolution of ancient characters, along with related instructions for evaluating MLLMs. The repository also includes the relevant training and evaluation code.
+The work "(Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning)[https://arxiv.org/pdf/2604.11299]" has been accepted by _ACL main 2026_.
 
 The relevant images for the benchmark proposed in this paper can be accessed via the link below:
 [**Images**](https://drive.google.com/file/d/1Nw-h5maGGPZurGxBnSX_L1R_IXKHju-R/view?usp=drive_link)
