@@ -5,16 +5,18 @@ We have open-sourced **GEVO**, a benchmark for ancient Chinese character evoluti
 Our paper, **"Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning"**, has been accepted to **ACL 2026 Main Conference**.
 
 ## Why is this benchmark needed?
+<p align="center">
 <img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/bcacb158-2c51-456b-a610-16e49afba87e" />
+</p>
 
 Evolutionary analysis is a crucial task in paleography understanding, as the diverse forms of the same glyph pose significant challenges to existing recognition models.
 
 ## Construction Workflow​
-
+<p align="center">
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/84b45f07-ab26-4db1-9345-e70af8a653ba" />
+</p>
 
 We construct this benchmark through a hybrid approach combining LLMs with expert annotators, ensuring that the instructions are interpretable by a wide range of LLMs.
-
 
 ## Benchmark Resources
 
@@ -52,6 +54,12 @@ The GEVO model, built upon **Qwen3-VL-2B-Instruct**, is publicly available on Hu
 The model can be downloaded and deployed using the same workflow as other models in the Qwen3-VL series.
 
 Detailed usage examples and deployment instructions are provided in the corresponding Hugging Face model card.
+
+## Evaluation Results
+
+<img width="2290" height="1114" alt="image" src="https://github.com/user-attachments/assets/d380ce08-7fe5-4f61-9576-08b00ade004e" />
+
+We conduct benchmark evaluations on a diverse set of models. 
 
 ## News
 
