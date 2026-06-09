@@ -5,8 +5,11 @@ We have open-sourced **GEVO**, a benchmark for ancient Chinese character evoluti
 Our paper, **"Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning"**, has been accepted to **ACL 2026 Main Conference**.
 
 ## Why is this benchmark needed?
-<img width="1140" height="490" alt="image" src="https://github.com/user-attachments/assets/bcacb158-2c51-456b-a610-16e49afba87e" />
+<img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/bcacb158-2c51-456b-a610-16e49afba87e" />
 Evolutionary analysis is a crucial task in paleography understanding, as the diverse forms of the same glyph pose significant challenges to existing recognition models.
+
+## 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/84b45f07-ab26-4db1-9345-e70af8a653ba" />
 
 
 ## Benchmark Resources
